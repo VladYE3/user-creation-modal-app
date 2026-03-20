@@ -16,6 +16,7 @@
           "theme"
         ]
       }
-    ]
+    ],
+    "import-notation": "string"
   }
 }
