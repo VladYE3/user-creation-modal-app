@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[32344,["/user-creation-modal-app/_next/static/chunks/0dbhjjzl8qfwv.js","/user-creation-modal-app/_next/static/chunks/0kz3lp4laeqnu.js"],"CreateUserModal"]
+3:I[97367,["/user-creation-modal-app/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"container mx-auto flex min-h-screen flex-col items-center p-4","children":[["$","h1",null,{"className":"mb-4 text-2xl font-bold","children":"Управление пользователями"}],["$","$L2",null,{}]]}],[["$","script","script-0",{"src":"/user-creation-modal-app/_next/static/chunks/0kz3lp4laeqnu.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"e-D2LU92vCyjO-etuopli"}
+5:null
